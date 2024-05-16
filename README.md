@@ -37,7 +37,12 @@
 </div>
 
 ###
+###
+## Projects 🚀
 
+Stay tuned as I'm currently working on building a portfolio of exciting data science projects that demonstrate my skills in data analysis, modeling, and visualization. Exciting updates are coming soon!
+
+###
 ###
 ## Let's Connect! 📧
 
@@ -76,10 +81,5 @@ Let's turn data into insights together! 📈
   <img src="https://profile-counter.glitch.me/IVikas17/count.svg?"  />
 </div>
 
-###
-## Projects 🚀
 
-Stay tuned as I'm currently working on building a portfolio of exciting data science projects that demonstrate my skills in data analysis, modeling, and visualization. Exciting updates are coming soon!
-
-###
 
