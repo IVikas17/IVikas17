@@ -3,16 +3,19 @@
 </div>
 
 ###
+# Welcome to Vikas's Data Wizardry Showcase! 🧙‍♂️
 
-<br clear="both">
+## Skills 💼
 
-<h3 align="left">Hello World!! I am Vikas,<br>Welcome to my data science portfolio! I am a Data Science and Engineering diploma graduate with a passion for leveraging data to drive business value and enhance decision-making processes. With 6 months of experience in working on architectural data, I have honed my skills in data analysis, modeling, and visualization.</h3>
+Here are some of the key skills that I bring to the table:
 
-###
-
-<h3 align="left">Skills : <br>- Programming: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy)<br>- Databases: MySQL (Joins, Subqueries, Advanced analytical functions)<br>- EDA (Uni/Bi/Multivariate analysis, Feature Engineering, Data Preprocessing, and Data Wrangling)<br>- Machine Learning: Supervised/Unsupervised Learning, Linear Regression, Classification, Clustering, Dimensionality Reduction<br>- Statistics: (Hypothesis Testing, Normality Testing, Z-test, T-test, ANOVA, Chi-square)<br>- Data Visualization: (Tableau, Microsoft PowerBI)</h3>
-
-###
+- **Programming**: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy) 💻
+- **Databases**: MySQL (Joins, Subqueries, Advanced analytical functions) 🛢️
+- **Exploratory Data Analysis (EDA)**: Uni/Bi/Multivariate analysis, Feature Engineering, Data Preprocessing, and Data Wrangling 📊
+- **Machine Learning**: Supervised/Unsupervised Learning, Linear Regression, Classification, Clustering, Dimensionality Reduction 🤖
+- **Statistics**: Hypothesis Testing, Normality Testing, Z-test, T-test, ANOVA, Chi-square 📈
+- **Data Visualization**: Tableau, Microsoft PowerBI 📊
+  ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -35,8 +38,13 @@
 ###
 
 ###
+## Let's Connect! 📧
 
-<h3 align="left">Contact 📧:</h3>
+Feel free to reach out to me via following platforms to discuss potential opportunities or collaborations.
+
+Let's turn data into insights together! 📈
+
+###
 
 ###
 
@@ -68,6 +76,9 @@
 </div>
 
 ###
+## Projects 🚀
+
+Stay tuned as I'm currently working on building a portfolio of exciting data science projects that demonstrate my skills in data analysis, modeling, and visualization. Exciting updates are coming soon!
 
 ###
 
