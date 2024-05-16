@@ -3,11 +3,12 @@
 </div>
 
 ###
-# Welcome to Vikas's Data Wizardry Showcase! 🧙‍♂️
+<h1 align="center">Welcome to Vikas's Data Wizardry Showcase! 🧙‍♂️</h1>
+
+
+
 
 ## Skills 💼
-
-Here are some of the key skills that I bring to the table:
 
 - **Programming**: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy) 💻
 - **Databases**: MySQL (Joins, Subqueries, Advanced analytical functions) 🛢️
